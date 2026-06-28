@@ -19,4 +19,5 @@ Feedback and suggestions are welcome! 🙌
 ---
 🔗 Connect
 - LinkedIn: linkedin.com/in/gaurav-upreti-556278185
-- GitHub: [Repo Link]
+- GitHub: https://github.com/gupreti105-bit
+
